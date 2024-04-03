@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AguirreMartinezFragmentos</string>
+    <string name="saludo_primer_fragmento">primer fragmento</string>
+    <string name="saludo_segundo_fragmento">segundo Fragmentos</string>
+    <string name="saludo_tercer_fragmento">tercer Fragmentos</string>
+    <string name="saludo_cuarto_fragmento">cuarto Fragmentos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
